@@ -2,6 +2,7 @@
 미세먼지 중심의 의료 취약 지역 재정의
 * LatLng
   * 행정구역시군구_경계
+  * https://drive.google.com/drive/folders/1N-fPoLz3qM2ozBbYCdtk6FhaCt4RX1iM?usp=drive_link
   * 출처 : https://www.data.go.kr/data/15125045/fileData.do?recommendDataYn=Y#
 * hazard_facility
   * 시군구 단위 대기 배출원
