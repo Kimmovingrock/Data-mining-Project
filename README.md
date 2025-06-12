@@ -32,6 +32,4 @@
 * hospital_per_pop
   * 인구 당 병원 수
 * tmp_score_result
-  * 기존 선행연구 바탕의 의료취약점수 
-* WhoMergedPm
-  * ..?
+  * 기존 선행연구 바탕의 의료취약점수
