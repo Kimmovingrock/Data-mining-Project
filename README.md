@@ -27,9 +27,13 @@
 * elderly_pop.csv
   * 고령인구비율 데이터
   * https://kosis.kr/statHtml/statHtml.do?sso=ok&returnurl=https%3A%2F%2Fkosis.kr%3A443%2FstatHtml%2FstatHtml.do%3Fconn_path%3DI2%26tblId%3DDT_1YL20631%26orgId%3D101%26
-* hospital_per_area
-  * 면적 당 병원 수
-* hospital_per_pop
-  * 인구 당 병원 수
-* tmp_score_result
-  * 기존 선행연구 바탕의 의료취약점수
+* outpatient, patient(atopic)
+  * 아토피 왜래, 내원환자 데이터
+  * https://www.data.go.kr/data/15104805/fileData.do
+* outpatient, patient(rhinitis)
+  * 비염 왜래, 내원환자 데이터
+  * https://www.data.go.kr/data/15104804/fileData.do?recommendDataYn=Y
+* outpatient, patient(asthma) / city_county_code
+  * 천식 외래, 내원환자 데이터, 시군구 코드 데이터
+  * https://www.data.go.kr/data/15104806/fileData.do?recommendDataYn=Y
+  
