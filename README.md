@@ -52,8 +52,8 @@
   * 추가 install
   * pip install folium
   * pip install geopandas
-  * pip install matplotlib scikit-learn gensim nltk pandas
   * pip install numpy
   * pip install pandas
   * pip install xgboost
   * pip install openpyxl
+  * pip install matplotlib scikit-learn gensim nltk pandas
