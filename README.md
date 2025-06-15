@@ -38,7 +38,7 @@
 
 * progressing_score.ipynb(1번째로 실행)
   * pm2.5, pm10 데이터 전처리 및 병합
-  * 병원 수, 지역 면적, 인구 수, 고령인구 비율을 전처리하여 tmp_score.scv 도출 후 main.ipynb에서 사용
+  * 병원 수, 지역 면적, 인구 수, 고령인구 비율을 전처리하여 tmp_score_result.csv 도출 후 main.ipynb에서 사용
 * respiratory_case.ipynb(2번째로 실행)
   * patient, outpatient(asthma) / patient, outpatient(atopic) / patient, outpatient(rhinitis) + city_county_code 천식, 아토피, 비염 각 외래, 내원 환자수 전처리 + 시군구 데이터 병합
 * main.ipynb (3번째로 실행)
