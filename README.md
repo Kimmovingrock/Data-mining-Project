@@ -58,4 +58,4 @@
   * pip install openpyxl
   * pip install scikit-learn
   * pip install matplotlib
-  * pip install imblearn
+  * pip install imbalanced-learn
