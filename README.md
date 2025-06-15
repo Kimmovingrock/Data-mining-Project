@@ -56,4 +56,5 @@
   * pip install pandas
   * pip install xgboost
   * pip install openpyxl
-  * pip install matplotlib scikit-learn gensim nltk pandas
+  * pip install scikit-learn
+  * pip install matplotlib
